@@ -7,9 +7,7 @@
 
 I will do my best to demonstrate all the questions on LeetCode in the form of animation. 
 
-I plan to take three to four years to complete it!
-
-I look forward to witnessing this day with you!
+The plan is to take three to four years to complete it! Look forward to witnessing this day with you!
 
 The latest article published in WeChat **五分钟学算法** ,  you can pay attention to get the latest article.
 
